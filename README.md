@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Rodrigo Parra 👋
 
-<!--
-**themailman-per/themailman-per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Administración y Negocios Internacionales en la UPC (Universidad Peruana de Ciencias Aplicadas), basado en Lima, Perú.
 
-Here are some ideas to get you started:
+Me interesan el comercio exterior, las finanzas y la inversión, el emprendimiento, la música y el fútbol.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Lima, Perú
+
+## Contacto
+
+📧 [rodrigoalejandroparraramirez@gmail.com](mailto:rodrigoalejandroparraramirez@gmail.com)
+
+💼 [LinkedIn](https://www.linkedin.com/in/rodrigoparraramirez/)
